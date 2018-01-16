@@ -4,3 +4,4 @@ This is the first commit
 This is the second commit.
 
 This is the third commit (originating from feature2 branch)
+This is the 4th commit (originating from feature2 branch)
