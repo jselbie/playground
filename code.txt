@@ -2,3 +2,5 @@ this is sample source code.
 This is the first commit
 
 This is the second commit.
+
+This is a commit authored by someone else.
