@@ -7,4 +7,4 @@ This is a commit authored by someone else.
 
 This is a bug fix.
 
-this is a fix that should be rejected.
+This is a fix that should be rejected.
